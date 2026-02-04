@@ -83,8 +83,8 @@ Resources:`;for(let t of c){if(!t||typeof t!=`string`)throw Error(`@supabase/aut
       <br>
       <ul>
       <li><b>Projected Stats:</b> ${d}</li>
-      <li><b>Last Drafted:</b> ${s.lastDraft}</li>
-      <li><b>Earliest Drafted:</b> ${s.earliestDraft}</li>
+      <li><b>Most Recent Draft:</b> ${s.lastDraft}</li>
+      <li><b>Oldest Draft:</b> ${s.earliestDraft}</li>
       <li><b>Years Kept:</b> ${s.keeperYears}</li>
       <li><b>2025 Status:</b> ${s.lastRoster}</li>
       </ul>
