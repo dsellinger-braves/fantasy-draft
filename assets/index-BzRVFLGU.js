@@ -77,6 +77,7 @@ Resources:`;for(let t of c){if(!t||typeof t!=`string`)throw Error(`@supabase/aut
       Write a witty, sharp reaction (Max 250 words).
       - If "Ended 2025 on ${t}'s Roster", mention running it back.
       - If "DISPERSAL ASSET" is mentioned, reference the "Pat/Joe Fire Sale". Only discuss this if the player is a dispersal asset, otherwise DO NOT MENTION.
+      - Only mention the "bargain bin" if the player has ADP < 40 and was picked after Round 6.
       - Look at OWNER PROFILE trends. Mention if this player fits their build.
       - PRIORITIZE the "Valuation" (Reach/Steal) and "Relationship" (Loyalty) if notable.
 
