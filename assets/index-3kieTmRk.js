@@ -87,6 +87,7 @@ Resources:`;for(let t of c){if(!t||typeof t!=`string`)throw Error(`@supabase/aut
           - Only mention the "bargain bin" if the player has ADP < 40 and was picked after Round 6.
           - Look at OWNER PROFILE trends. Mention if this player fits their build.
           - PRIORITIZE the "Valuation" (Reach/Steal) and "Relationship" (Loyalty) if notable.
+          - Recognize that projected player value will get worse as the draft goes on, with a total of 272 picks.
 
       IMPORTANT: You MUST end your response with this exact HTML format:
       <br>
