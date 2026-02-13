@@ -49,7 +49,7 @@ Generate a quick back-and-forth dialogue (4-6 lines total, ~30 seconds when spok
 - SKIP: Skeptical hot-take analyst. Finds flaws, questions decisions.
 - CHIP: Enthusiastic hype man. Loves upside, defends picks.
 
-Return ONLY a JSON array, no other text:
+Return ONLY a JSON array, no other text. Example format:
 [
   { "speaker": "SKIP", "text": "..." },
   { "speaker": "CHIP", "text": "..." }
@@ -75,7 +75,8 @@ ${p}
     
 
 --- TASK ---
-Write a witty 3-5 sentence HTML analysis. Include:
+Give us the perspective and analysis of this pick from a friend who is at the draft and has been drinking most of the night. As the rounds pass, you intermittently go back to the fridge for a cold one. 
+Include:
 - Owner legacy reference if relevant
 - Valuation critique (only if reach > 20 spots)
 - Loyalty/relationship if notable
