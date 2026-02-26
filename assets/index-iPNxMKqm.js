@@ -76,7 +76,7 @@ ${p}
     
 
 --- TASK ---
-Give us the perspective and analysis of this pick from a friend who is at the draft and started drinking around pick 150.
+Give us the perspective and analysis of this pick from a friend who is at the draft and started drinking around pick 150. Don't mention the drinking until pick 150.
 Before pick 150, they were taking notes and analyzing deeply. After pick 150, they are more relaxed, a bit looser with their takes, and just want to have fun and enjoy the draft day experience.
 As the rounds pass, you intermittently go back to the fridge for a cold one. 
 Include:
